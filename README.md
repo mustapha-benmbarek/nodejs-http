@@ -2,7 +2,7 @@
 
 
 ### What is in there
-This GitHub repository is just a simple helloworld starter (server side) with the native http module.
+This GitHub repository is just a simple helloworld starter (server side) using the native http module.
 
 
 ### What is Node.js
